@@ -20,7 +20,5 @@ Here are the list of examples:
     14. Decorators
     15. JSON
     16. SQLite
-    *.  Viper
-    *.  Cobra
 
 
